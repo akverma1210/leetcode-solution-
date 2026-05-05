@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akverma1210/leetcode-solution-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/akverma1210/leetcode-solution-/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/akverma1210/leetcode-solution-/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/akverma1210/leetcode-solution-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Dynamic Programming
@@ -23,4 +24,8 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akverma1210/leetcode-solution-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akverma1210/leetcode-solution-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/akverma1210/leetcode-solution-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
