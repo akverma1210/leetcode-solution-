@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akverma1210/leetcode-solution-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/akverma1210/leetcode-solution-/tree/main/0125-valid-palindrome/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/akverma1210/leetcode-solution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/akverma1210/leetcode-solution-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/akverma1210/leetcode-solution-/tree/main/0283-move-zeroes/) | Easy |
 ## String
@@ -36,4 +37,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akverma1210/leetcode-solution-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/akverma1210/leetcode-solution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akverma1210/leetcode-solution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
