@@ -7,6 +7,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akverma1210/leetcode-solution-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/akverma1210/leetcode-solution-/tree/main/0283-move-zeroes/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/akverma1210/leetcode-solution-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akverma1210/leetcode-solution-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akverma1210/leetcode-solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
@@ -17,6 +18,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akverma1210/leetcode-solution-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/akverma1210/leetcode-solution-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/akverma1210/leetcode-solution-/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/akverma1210/leetcode-solution-/tree/main/0904-fruit-into-baskets/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
