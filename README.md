@@ -54,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/akverma1210/leetcode-solution-/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
