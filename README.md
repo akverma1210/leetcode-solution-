@@ -59,4 +59,5 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/akverma1210/leetcode-solution-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/akverma1210/leetcode-solution-/tree/main/0009-palindrome-number/) | Easy |
+| [0507-perfect-number](https://github.com/akverma1210/leetcode-solution-/tree/main/0507-perfect-number/) | Easy |
 <!---LeetCode Topics End-->
