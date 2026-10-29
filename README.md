@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akverma1210/leetcode-solution-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/akverma1210/leetcode-solution-/tree/main/0283-move-zeroes/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/akverma1210/leetcode-solution-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -59,5 +60,26 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/akverma1210/leetcode-solution-/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/akverma1210/leetcode-solution-/tree/main/0009-palindrome-number/) | Easy |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/akverma1210/leetcode-solution-/tree/main/0507-perfect-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
