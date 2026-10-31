@@ -11,6 +11,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/akverma1210/leetcode-solution-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akverma1210/leetcode-solution-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,10 +52,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/akverma1210/leetcode-solution-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/akverma1210/leetcode-solution-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +85,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/akverma1210/leetcode-solution-/tree/main/0204-count-primes/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/akverma1210/leetcode-solution-/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
